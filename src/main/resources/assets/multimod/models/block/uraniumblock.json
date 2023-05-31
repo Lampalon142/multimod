@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "multimod:blocks/uranium_ore",
+    "up": "multimod:blocks/uranium_ore",
+    "north": "multimod:blocks/uranium_ore",
+    "east": "multimod:blocks/uranium_ore",
+    "south": "multimod:blocks/uranium_ore",
+    "west": "multimod:blocks/uranium_ore",
+    "particle": "multimod:blocks/uranium_ore"
+  },
+  "render_type": "solid"
+}
